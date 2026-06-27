@@ -1,4 +1,4 @@
-# rclone-encrypt-test-chatgpt-python
+# cli-chatgpt-python
 A small CLI tool that encrypts and decrypts using the rclone encryption defaults. 
 
 Rclone uses a custom salt if no salt is provided, which this tool will use by default. A few similar tools:
